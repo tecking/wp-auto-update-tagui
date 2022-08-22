@@ -1,6 +1,6 @@
 // wp-auto-update.tag
 //
-// wp-auto-update.tag is a TagID script to update WordPress websites.
+// wp-auto-update.tag is a TagUI script to update WordPress websites.
 // Once you setup a configuration file (CSV format),
 // it cruises multiple websites and updates WordPress automatically.
 //

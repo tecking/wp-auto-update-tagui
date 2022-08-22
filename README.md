@@ -2,7 +2,7 @@
 
 ## What's this?
 
-The project that includes small [TagID](https://github.com/aisingapore/TagUI) scripts to update WordPress websites.
+The project that includes small [TagUI](https://github.com/aisingapore/TagUI) scripts to update WordPress websites.
 Once you setup a configuration file (CSV format), it cruises multiple websites and updates WordPress automatically.
 
 ## Features
