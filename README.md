@@ -29,7 +29,7 @@ The script updates WordPress websites the following processes.
 Assuming TagUI is installed on `C:\tagui`.
 
 1. Download zip file from this repository and expand (it will be appeared `wp-auto-update-tagui-master` folder)
-1. Rename a folder name `wp-auto-update-tagui-master` to `wp-auto-update-tagui`
+1. Rename the folder name `wp-auto-update-tagui-master` to `wp-auto-update-tagui`
 1. Setup `wp-auto-update.tag`, `error.tag` and `wp-auto-update.csv`
 1. Move the folder to `C:\tagui\flows`
 1. Run `wp-auto-update.bat` in the folder
@@ -38,7 +38,7 @@ Assuming TagUI is installed on `C:\tagui`.
 
 ### wp-auto-update.tag and error.tag
 
-Set the following constants if you have Telegram account.
+Set the following constant if you have Telegram account.
 
 -   TELEGRAM_ID
 
