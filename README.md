@@ -48,8 +48,8 @@ To get your Telegram ID, you should sent any message to TagUI bot (@taguibot). S
 
 Set the following constants. Do not delete the first line of the file because it is an identifiers.
 
--   SITE_URL  
-    URL where the core WordPress files are located (it should include the `http(s)://` part and should not have a slash `/` at the end)
+-   LOGIN_URL  
+    e.g. `https://www.example.com/wp-login.php`
 -   USER_LOGIN
 -   USER_PASS
 
@@ -61,6 +61,8 @@ Set the following constants. Do not delete the first line of the file because it
 
 ## Changelog
 
+-   1.0.1 (2022-09-01)
+    -   Revise `SITE_URL` constant to `LOGIN_URL`
 -   1.0.0 (2022-08-22)
     -   Opening to the public
 

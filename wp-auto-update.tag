@@ -27,7 +27,7 @@ translation = ''
 //
 // login
 //
-`SITE_URL`/wp-login.php
+`LOGIN_URL`
 type user_login as `USER_LOGIN`
 type user_pass as `USER_PASS`
 click wp-submit
